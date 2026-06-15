@@ -131,12 +131,4 @@ Relevant Areas:
 
 ---
 
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/deepikaaanjankumar/))
-
-📧 [Email](mailto:deepikaa.may2002@gmail.com)
-
----
-
 ### "Building intelligent systems that can perceive, learn, and act in the real world."
