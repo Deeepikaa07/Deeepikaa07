@@ -121,73 +121,6 @@ Relevant Areas:
 
 ---
 
-# 📌 Featured Projects
-
-### 🤖 Visuomotor Manipulation using Diffusion Policy
-
-* Diffusion Policy
-* Imitation Learning
-* ROS2
-* MoveIt2
-* Isaac Sim
-* UR5 Manipulation
-
-Focused on policy evaluation, generalization analysis, and deployment-oriented benchmarking for learning-based manipulation systems.
-
----
-
-### 🗺️ Learning-Based Localization & Mapping with ROS2
-
-* ROS2
-* Nav2
-* SLAM Toolbox
-* LiDAR
-* Isaac Sim
-
-Built a navigation pipeline supporting mapping, localization, occupancy grid generation, and autonomous goal navigation.
-
----
-
-### 🎯 Reinforcement Learning for Continuous Control
-
-* DDPG
-* Actor-Critic Methods
-* Continuous Control
-* Policy Optimization
-
-Explored reinforcement learning techniques for control tasks and studied the impact of reward engineering and hyperparameter tuning.
-
----
-
-### ☁️ AI Platform Engineering & Monitoring
-
-* FastAPI
-* Kubernetes
-* Docker
-* Jenkins
-* GCP
-* Prometheus
-
-Built cloud-native workflows for deploying, monitoring, and managing AI applications.
-
----
-
-# 💼 Experience
-
-### AI & Software Engineer — EdPlus @ Arizona State University
-
-Built AI-assisted workflows, evaluation pipelines, and backend systems while improving reliability, automation, and deployment quality.
-
-### Machine Learning & AI Engineer — Mithya
-
-Worked on machine learning systems, model evaluation workflows, backend services, and AI integration pipelines.
-
-### AI Systems Engineer — Pandeteens
-
-Supported AI-driven production systems, deployment workflows, and backend infrastructure.
-
----
-
 # 🌱 Currently Learning
 
 * Vision-Language-Action Models
@@ -200,9 +133,9 @@ Supported AI-driven production systems, deployment workflows, and backend infras
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/deepikaaanjankumar/))
 
-📧 [deepikss.may2002@gmail.com](mailto:deepikss.may2002@gmail.com)
+📧 [Email](mailto:deepikaa.may2002@gmail.com)
 
 ---
 
